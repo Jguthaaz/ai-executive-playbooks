@@ -1,11 +1,13 @@
 # Roadmap
 **Status:** available materials and planned increments; no implemented business outcomes.
 
-## Available in v0.2
+## Available in v0.3
 - Draft opportunity assessment, workshop, pilot brief and decision log.
 - One untested challenge prompt.
 - One fictional knowledge-assistant example.
 - A hypothetical impact/effort prioritization case with weighted variables and sensitivity checks. The portfolio owner proposed the two primary dimensions; illustrative inputs and scores were prepared with AI assistance.
+
+- A hypothetical B2B quotation-assistant pilot design with evaluation measures and human commercial approval. No prototype or test was run.
 
 ## Next increments
 1. Review the templates for clarity and consistency; record substantive revisions.
