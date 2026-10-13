@@ -1,0 +1,25 @@
+scenario,id,name,impact,effort,confidence,ready,frontier
+Balanced,A,Quotation assistant,4.2,3.8,low,yes,True
+Balanced,B,Request triage,3.4,2.15,low,yes,True
+Balanced,C,Technical knowledge,3.05,3.95,low,no,False
+Balanced,D,Demand forecasting,3.7,3.65,low,yes,True
+Balanced,E,Predictive maintenance,4.05,4.8,low,no,False
+Balanced,F,Satisfaction analysis,2.85,2.35,low,yes,False
+Growth,A,Quotation assistant,4.55,3.8,low,yes,True
+Growth,B,Request triage,3.05,2.15,low,yes,True
+Growth,C,Technical knowledge,2.75,3.95,low,no,False
+Growth,D,Demand forecasting,3.8,3.65,low,yes,True
+Growth,E,Predictive maintenance,3.75,4.8,low,no,False
+Growth,F,Satisfaction analysis,2.65,2.35,low,yes,False
+Efficiency,A,Quotation assistant,4.05,3.8,low,yes,True
+Efficiency,B,Request triage,3.7,2.15,low,yes,True
+Efficiency,C,Technical knowledge,3.15,3.95,low,no,False
+Efficiency,D,Demand forecasting,3.75,3.65,low,yes,True
+Efficiency,E,Predictive maintenance,4.15,4.8,low,no,False
+Efficiency,F,Satisfaction analysis,2.95,2.35,low,yes,False
+Service,A,Quotation assistant,3.8,3.8,low,yes,True
+Service,B,Request triage,3.6,2.15,low,yes,True
+Service,C,Technical knowledge,3.5,3.95,low,no,False
+Service,D,Demand forecasting,3.4,3.65,low,yes,False
+Service,E,Predictive maintenance,4.5,4.8,low,no,False
+Service,F,Satisfaction analysis,3.1,2.35,low,yes,False
