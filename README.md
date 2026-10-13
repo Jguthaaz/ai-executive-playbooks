@@ -1,12 +1,14 @@
 # AI Executive Playbooks
 Practical tools to connect business strategy, innovation and AI with decisions and action.
 
-**Status: work in progress · v0.2 · October 2026**
+**Status: work in progress · v0.3 · October 2026**
 
 This initial portfolio explores how to frame opportunities, align stakeholders and design a responsible experiment before scaling. Materials are draft working tools, not a validated methodology or evidence of client delivery.
 
-## Featured case
+## Featured cases
 [Prioritizing three AI opportunities](experiments/01-ai-opportunity-prioritization.md) — a fictional B2B maintenance scenario using business impact and implementation effort, weighted subdimensions and sensitivity checks. All inputs and scores are illustrative; no pilot was run.
+
+[B2B quotation assistant](examples/quotation-assistant.md) — a hypothetical pilot design with workflow, a constructed acceptance example, comparison against simpler alternatives and evaluation criteria. No prototype or test results are claimed.
 
 ## Start with a decision
 1. Frame the business problem with the [opportunity assessment](frameworks/ai-opportunity-assessment.md).
@@ -24,6 +26,7 @@ This initial portfolio explores how to frame opportunities, align stakeholders a
 | [Opportunity challenge prompt](prompts/opportunity-challenge.md) | Challenge a proposal without inventing evidence | Untested prompt |
 | [Knowledge assistant](examples/knowledge-assistant.md) | Demonstrate a decision process | Fictional illustration |
 | [Impact and effort prioritization](experiments/01-ai-opportunity-prioritization.md) | Compare three opportunities and challenge assumptions | Hypothetical case |
+| [B2B quotation assistant](examples/quotation-assistant.md) | Turn a commercial opportunity into a bounded pilot design | Hypothetical use case |
 | [Roadmap](ROADMAP.md) | Track the next increments | Planned work |
 
 ## Use and limitations
