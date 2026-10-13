@@ -3,6 +3,9 @@
 
 Compare six fictional AI initiatives through the portfolio owner's impact/effort framework. Python generates scenario results and a self-contained interactive viewer. The viewer recalculates in JavaScript so users can explore weights without a server, network access or an AI API.
 
+## Recruiter demonstration
+[Step-by-step guide / Guía para reclutadores](DEMO-GUIDE.md): download and open the viewer, present a four-minute demonstration, and organize the project in OneNote, Notion or OneDrive.
+
 ## Quick start
 Requires Python 3.10+; no third-party packages.
 
