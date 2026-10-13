@@ -1,9 +1,12 @@
 # AI Executive Playbooks
 Practical tools to connect business strategy, innovation and AI with decisions and action.
 
-**Status: work in progress · v0.3 · October 2026**
+**Status: work in progress · v0.4 · October 2026**
 
 This initial portfolio explores how to frame opportunities, align stakeholders and design a responsible experiment before scaling. Materials are draft working tools, not a validated methodology or evidence of client delivery.
+
+## Interactive prototype
+[AI Opportunity Simulator](simulator/README.md) — Python code, six synthetic initiatives, configurable impact/effort weights and a ready-to-open interactive viewer. Download the repository to run the viewer locally; GitHub shows its HTML source. Basic software checks passed; business assumptions remain unvalidated.
 
 ## Featured cases
 [Prioritizing three AI opportunities](experiments/01-ai-opportunity-prioritization.md) — a fictional B2B maintenance scenario using business impact and implementation effort, weighted subdimensions and sensitivity checks. All inputs and scores are illustrative; no pilot was run.
@@ -27,6 +30,7 @@ This initial portfolio explores how to frame opportunities, align stakeholders a
 | [Knowledge assistant](examples/knowledge-assistant.md) | Demonstrate a decision process | Fictional illustration |
 | [Impact and effort prioritization](experiments/01-ai-opportunity-prioritization.md) | Compare three opportunities and challenge assumptions | Hypothetical case |
 | [B2B quotation assistant](examples/quotation-assistant.md) | Turn a commercial opportunity into a bounded pilot design | Hypothetical use case |
+| [Python simulator](simulator/README.md) | Explore weights, scenarios and eligible alternatives | Working prototype · synthetic data |
 | [Roadmap](ROADMAP.md) | Track the next increments | Planned work |
 
 ## Use and limitations
