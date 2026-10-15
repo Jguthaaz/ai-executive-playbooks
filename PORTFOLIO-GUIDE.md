@@ -6,9 +6,9 @@ This portfolio explores the connection between business strategy, growth, innova
 
 It complements Jorge Gutierrez Haaz's professional profile by making selected approaches to business problems visible and open to discussion. The descriptions below are positioning themes, not official job titles. Career history, roles and accomplishments should be assessed through the current CV, LinkedIn profile and corroborating evidence.
 
-The four featured projects form a suggested reading sequence:
+The seven featured projects offer complementary reading routes. The core business sequence is:
 **Frame opportunities → challenge investment choices → design execution → verify value.**
-They share a fictional B2B setting for readability, but they are separate exercises with different assumptions. They are not stages of an actual engagement, nor does a later exercise imply an earlier funding decision passed.
+The exercises share a fictional B2B setting for readability, but they are separate exercises with different assumptions. They are not stages of an actual engagement, nor does a later exercise imply an earlier funding decision passed.
 
 ## Featured projects and contribution to the profile
 | Project | What the reader can inspect | Relevance to professional positioning | Evidence boundary |
@@ -17,6 +17,10 @@ They share a fictional B2B setting for readability, but they are separate exerci
 | [Decision Intelligence Lab](decision-intelligence-lab/README.md) | Weighted AI investment comparison, non-AI alternative, synthetic scores, sensitivity and conditional decision | Shows how strategic priorities, analytics, uncertainty and accountability can inform resource allocation | Illustrative decision reasoning; no actual investment, validated model or return |
 | [Business Transformation Blueprint](business-transformation-blueprint/README.md) | Current-state hypotheses, target workflow, capability gaps, decision rights, adoption and gated 90-day roadmap | Broadens the portfolio from AI selection to business transformation, operating design and execution planning | Hypothetical plan; no program implementation or operating-model adoption |
 | [Value Realization Playbook](value-realization-playbook/README.md) | Value tree, comparator, baseline assumptions, capacity arithmetic, costs, sensitivity and benefit ownership | Makes commercial discipline and the connection between initiatives and measurable value explicit | Synthetic evaluation design; no realized savings, cash impact or revenue growth |
+
+| [Growth Opportunity Explorer](growth-opportunity-explorer/README.md) | Segment hypotheses, customer problems, value propositions, synthetic economics and discovery gates | Makes the connection between growth strategy, customer needs and commercial experimentation visible | No market research, customer validation, pipeline or revenue result |
+| [Executive AI Briefing](executive-ai-briefing/README.md) | Decision memo with recommendation, alternatives, evidence, uncertainty and requested disposition | Makes concise executive synthesis and decision-oriented communication inspectable | Authored hypothetical memo; not delivered to an actual board or committee |
+| [AI Agent Workflow Lab](ai-agent-workflow-lab/README.md) | Workflow specification, role contracts, synthetic walkthrough, human gates and proposed evaluation cases | Connects AI exploration to business workflow design, traceability and accountable review | Design only; no running agent, executed tests, integrations or engineering proficiency claim |
 
 Together, these artifacts provide discussion material about connecting strategy with action. They do not independently prove executive performance, facilitation ability or transformation results.
 
@@ -31,9 +35,11 @@ Together, these artifacts provide discussion material about connecting strategy 
 | [Opportunity challenge prompt](prompts/opportunity-challenge.md) | Draft prompt for questioning assumptions | Shows a structured experimentation idea; the prompt remains untested |
 
 ## Suggested routes for readers
-- **Strategy and innovation conversations:** co-creation → investment lab → transformation blueprint.
+- **Strategy and innovation conversations:** growth explorer → co-creation → investment lab → transformation blueprint.
 - **Transformation and operating leadership conversations:** blueprint → value realization → workshop.
 - **AI strategy and analytics conversations:** investment lab → simulator → value realization.
+- **Executive communication conversations:** executive briefing → value realization → blueprint.
+- **AI workflow exploration conversations:** agent workflow design → co-creation toolkit → evaluation plan.
 
 These routes reflect the content of the artifacts, not a claim that a particular role or qualification has been earned. Recruiters can use them as starting points for questions about judgment, tradeoffs and experience.
 

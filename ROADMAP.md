@@ -20,6 +20,13 @@
 
 All four featured exercises remain Work in Progress. No workshop, investment, transformation or benefit realization has been executed or validated through these exercises.
 
+## Available in v0.7
+- [Growth Opportunity Explorer](growth-opportunity-explorer/README.md): hypothetical commercial discovery exercise and reusable worksheet.
+- [Executive AI Briefing](executive-ai-briefing/README.md): hypothetical committee memo and reusable briefing structure.
+- [AI Agent Workflow Lab](ai-agent-workflow-lab/README.md): design-only workshop preparation workflow, synthetic illustration and unexecuted evaluation cases.
+
+All seven featured projects remain Work in Progress. The three additions document proposals, not market validation, delivered briefings or an operational agent.
+
 ## Next increments
 1. Review the templates for clarity and consistency; record substantive revisions.
 2. Test the prompt with a synthetic proposal; publish inputs, output, human corrections and limitations.

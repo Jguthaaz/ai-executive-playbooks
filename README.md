@@ -1,7 +1,7 @@
 # AI Executive Playbooks
 Practical tools to connect business strategy, innovation and AI with decisions and action.
 
-**Status: work in progress · v0.6 · October 2026**
+**Status: work in progress · v0.7 · October 2026**
 
 This initial portfolio explores how to frame opportunities, align stakeholders and design a responsible experiment before scaling. Materials are draft working tools, not a validated methodology or evidence of client delivery.
 
@@ -14,6 +14,10 @@ Read the [project summary and professional relevance guide](PORTFOLIO-GUIDE.md) 
 
 - [Business Transformation Blueprint](business-transformation-blueprint/README.md) — target workflow, capabilities, governance, adoption and a gated 90-day roadmap. **Work in Progress · hypothetical.**
 - [Value Realization Playbook](value-realization-playbook/README.md) — value hypotheses, baseline, capacity versus cash savings, costs, sensitivity and benefit ownership. **Work in Progress · hypothetical.**
+
+- [Growth Opportunity Explorer](growth-opportunity-explorer/README.md) — segments, customer problems, commercial hypotheses and a discovery plan. **Work in Progress · hypothetical.**
+- [Executive AI Briefing](executive-ai-briefing/README.md) — concise decision memo, alternatives, evidence and a reusable structure. **Work in Progress · hypothetical.**
+- [AI Agent Workflow Lab](ai-agent-workflow-lab/README.md) — workshop preparation workflow specification, human review and proposed evaluation cases. **Work in Progress · design only; no running agent.**
 
 These are public working exercises, not claims of client delivery or measured outcomes. Read them as a sequence: frame opportunities, challenge investment choices, design execution and verify value. They are separate illustrations, not completed phases of a real engagement.
 
@@ -51,4 +55,4 @@ Copy a template and replace bracketed fields. Use approved, non-confidential inp
 These materials were prepared with AI assistance and require review and adaptation before real-world use. No tool-specific proficiency, certification, measured impact or production readiness is implied.
 
 ## En español
-Colección inicial de herramientas para conectar estrategia, innovación e IA con decisiones y acciones. Comienza con la evaluación de oportunidades y utiliza el taller y el brief para diseñar una prueba acotada. Los templates son borradores, el prompt aún no está probado y los casos son ficticios. La [guía del portafolio](PORTFOLIO-GUIDE.md) explica cómo cada proyecto contribuye al posicionamiento profesional, con límites claros sobre la evidencia. Los nuevos ejercicios conectan transformación empresarial y verificación de valor.
+Colección inicial de herramientas para conectar estrategia, innovación e IA con decisiones y acciones. Comienza con la evaluación de oportunidades y utiliza el taller y el brief para diseñar una prueba acotada. Los templates son borradores, el prompt aún no está probado y los casos son ficticios. La [guía del portafolio](PORTFOLIO-GUIDE.md) explica cómo cada proyecto contribuye al posicionamiento profesional, con límites claros sobre la evidencia. Los ejercicios abarcan crecimiento, cocreación, decisiones, transformación, valor, comunicación ejecutiva y diseño de flujos con IA.
