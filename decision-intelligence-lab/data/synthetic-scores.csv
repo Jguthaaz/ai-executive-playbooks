@@ -1,0 +1,21 @@
+alternative_id,criterion,base_weight,score,confidence,data_status,rationale
+A,commercial_contribution,0.3,5,low,synthetic,direct commercial bottleneck assumed
+A,productivity_potential,0.2,4,low,synthetic,recurring drafting workload assumed
+A,data_process_readiness,0.2,2,low,synthetic,fragmented sources assumed
+A,control_feasibility,0.15,2,low,synthetic,scope and price error controls complex
+A,pilot_affordability,0.15,2,low,synthetic,synthetic pilot cost USD 55000
+B,commercial_contribution,0.3,3,low,synthetic,indirect commercial contribution assumed
+B,productivity_potential,0.2,4,low,synthetic,repetitive triage workload assumed
+B,data_process_readiness,0.2,4,low,synthetic,stable labels assumed not verified
+B,control_feasibility,0.15,4,low,synthetic,human routing and non-emergency scope assumed
+B,pilot_affordability,0.15,4,low,synthetic,synthetic pilot cost USD 35000
+C,commercial_contribution,0.3,3,low,synthetic,indirect internal contribution assumed
+C,productivity_potential,0.2,3,low,synthetic,moderate search workload assumed
+C,data_process_readiness,0.2,3,low,synthetic,source currency gaps assumed
+C,control_feasibility,0.15,3,low,synthetic,citation and review controls required
+C,pilot_affordability,0.15,3,low,synthetic,synthetic pilot cost USD 45000
+D,commercial_contribution,0.3,2,low,synthetic,narrower commercial upside assumed
+D,productivity_potential,0.2,3,low,synthetic,moderate process improvement assumed
+D,data_process_readiness,0.2,5,low,synthetic,simple inputs and owner assumed not verified
+D,control_feasibility,0.15,5,low,synthetic,visible rules and review assumed
+D,pilot_affordability,0.15,5,low,synthetic,synthetic pilot cost USD 15000

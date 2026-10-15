@@ -1,9 +1,15 @@
 # AI Executive Playbooks
 Practical tools to connect business strategy, innovation and AI with decisions and action.
 
-**Status: work in progress · v0.4 · October 2026**
+**Status: work in progress · v0.5 · October 2026**
 
 This initial portfolio explores how to frame opportunities, align stakeholders and design a responsible experiment before scaling. Materials are draft working tools, not a validated methodology or evidence of client delivery.
+
+## Featured portfolio exercises
+- [Executive Co-Creation Toolkit](executive-co-creation-toolkit/README.md) — a worked 90-minute executive workshop, opportunity canvas, prioritization matrix and reusable worksheet. **Work in Progress · hypothetical.**
+- [Decision Intelligence Lab](decision-intelligence-lab/README.md) — a documentation-first AI investment exercise with synthetic scores, weighted criteria, sensitivity analysis and a conditional decision record. **Work in Progress · hypothetical.**
+
+Both are public working exercises, not claims of client delivery or measured outcomes. Start with co-creation to frame candidates, then use the lab to examine an investment decision.
 
 ## Interactive prototype
 [AI Opportunity Simulator](simulator/README.md) — Python code, six synthetic initiatives, configurable impact/effort weights and a ready-to-open interactive viewer. Download the repository to run the viewer locally; GitHub shows its HTML source. Basic software checks passed; business assumptions remain unvalidated.
