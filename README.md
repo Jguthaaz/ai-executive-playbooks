@@ -1,15 +1,21 @@
 # AI Executive Playbooks
 Practical tools to connect business strategy, innovation and AI with decisions and action.
 
-**Status: work in progress · v0.5 · October 2026**
+**Status: work in progress · v0.6 · October 2026**
 
 This initial portfolio explores how to frame opportunities, align stakeholders and design a responsible experiment before scaling. Materials are draft working tools, not a validated methodology or evidence of client delivery.
+
+## Portfolio guide
+Read the [project summary and professional relevance guide](PORTFOLIO-GUIDE.md) for the role of each project, suggested reading routes and evidence boundaries.
 
 ## Featured portfolio exercises
 - [Executive Co-Creation Toolkit](executive-co-creation-toolkit/README.md) — a worked 90-minute executive workshop, opportunity canvas, prioritization matrix and reusable worksheet. **Work in Progress · hypothetical.**
 - [Decision Intelligence Lab](decision-intelligence-lab/README.md) — a documentation-first AI investment exercise with synthetic scores, weighted criteria, sensitivity analysis and a conditional decision record. **Work in Progress · hypothetical.**
 
-Both are public working exercises, not claims of client delivery or measured outcomes. Start with co-creation to frame candidates, then use the lab to examine an investment decision.
+- [Business Transformation Blueprint](business-transformation-blueprint/README.md) — target workflow, capabilities, governance, adoption and a gated 90-day roadmap. **Work in Progress · hypothetical.**
+- [Value Realization Playbook](value-realization-playbook/README.md) — value hypotheses, baseline, capacity versus cash savings, costs, sensitivity and benefit ownership. **Work in Progress · hypothetical.**
+
+These are public working exercises, not claims of client delivery or measured outcomes. Read them as a sequence: frame opportunities, challenge investment choices, design execution and verify value. They are separate illustrations, not completed phases of a real engagement.
 
 ## Interactive prototype
 [AI Opportunity Simulator](simulator/README.md) — Python code, six synthetic initiatives, configurable impact/effort weights and a ready-to-open interactive viewer. Download the repository to run the viewer locally; GitHub shows its HTML source. Basic software checks passed; business assumptions remain unvalidated.
@@ -45,4 +51,4 @@ Copy a template and replace bracketed fields. Use approved, non-confidential inp
 These materials were prepared with AI assistance and require review and adaptation before real-world use. No tool-specific proficiency, certification, measured impact or production readiness is implied.
 
 ## En español
-Colección inicial de herramientas para conectar estrategia, innovación e IA con decisiones y acciones. Comienza con la evaluación de oportunidades y utiliza el taller y el brief para diseñar una prueba acotada. Los templates son borradores, el prompt aún no está probado y los casos son ficticios. El nuevo caso compara tres oportunidades con impacto al negocio y esfuerzo de implementación.
+Colección inicial de herramientas para conectar estrategia, innovación e IA con decisiones y acciones. Comienza con la evaluación de oportunidades y utiliza el taller y el brief para diseñar una prueba acotada. Los templates son borradores, el prompt aún no está probado y los casos son ficticios. La [guía del portafolio](PORTFOLIO-GUIDE.md) explica cómo cada proyecto contribuye al posicionamiento profesional, con límites claros sobre la evidencia. Los nuevos ejercicios conectan transformación empresarial y verificación de valor.

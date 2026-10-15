@@ -11,6 +11,15 @@
 
 - A runnable Python simulator with six synthetic initiatives, four scenarios, interactive HTML viewer and basic software checks. No business outcomes are claimed.
 
+## Available in v0.6
+- [Executive Co-Creation Toolkit](executive-co-creation-toolkit/README.md): worked hypothetical workshop and reusable worksheet.
+- [Decision Intelligence Lab](decision-intelligence-lab/README.md): hypothetical investment comparison, synthetic CSV, sensitivity and decision template.
+- [Value Realization Playbook](value-realization-playbook/README.md): synthetic value exercise distinguishing capacity, costs and cash effects; reusable register.
+- [Business Transformation Blueprint](business-transformation-blueprint/README.md): hypothetical operating design, adoption approach and gated 90-day plan; reusable template.
+- [Portfolio guide](PORTFOLIO-GUIDE.md): project summaries, professional relevance and evidence boundaries.
+
+All four featured exercises remain Work in Progress. No workshop, investment, transformation or benefit realization has been executed or validated through these exercises.
+
 ## Next increments
 1. Review the templates for clarity and consistency; record substantive revisions.
 2. Test the prompt with a synthetic proposal; publish inputs, output, human corrections and limitations.
