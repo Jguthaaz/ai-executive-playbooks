@@ -1,12 +1,15 @@
 # AI Executive Playbooks
 Practical tools to connect business strategy, innovation and AI with decisions and action.
 
-**Status: work in progress · v0.7 · October 2026**
+**Status: work in progress · v0.8 · October 2026**
 
 This initial portfolio explores how to frame opportunities, align stakeholders and design a responsible experiment before scaling. Materials are draft working tools, not a validated methodology or evidence of client delivery.
 
 ## Portfolio guide
-Read the [project summary and professional relevance guide](PORTFOLIO-GUIDE.md) for the role of each project, suggested reading routes and evidence boundaries.
+Read the [Project Overview](PORTFOLIO-GUIDE.md) for project contents, relevance and current status.
+
+## Analytics with real data
+[Customer Growth Analytics](customer-growth-analytics/README.md) — executed Python notebook using UCI Online Retail transactions: quality audit, RFM segments, cohort repeat purchasing, temporal holdout and commercial interpretation. Includes [observed findings](customer-growth-analytics/FINDINGS.md) and [Kaggle import instructions](customer-growth-analytics/KAGGLE.md). **Work in Progress · real public data · executed locally; not yet run in Kaggle.**
 
 ## Featured portfolio exercises
 - [Executive Co-Creation Toolkit](executive-co-creation-toolkit/README.md) — a worked 90-minute executive workshop, opportunity canvas, prioritization matrix and reusable worksheet. **Work in Progress · hypothetical.**

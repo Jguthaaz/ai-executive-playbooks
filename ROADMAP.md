@@ -27,6 +27,11 @@ All four featured exercises remain Work in Progress. No workshop, investment, tr
 
 All seven featured projects remain Work in Progress. The three additions document proposals, not market validation, delivered briefings or an operational agent.
 
+## Available in v0.8
+- [Customer Growth Analytics](customer-growth-analytics/README.md): locally executed analysis of real UCI Online Retail data, with notebook outputs, charts, aggregated tables, RFM segmentation, cohort repeat purchasing and temporal holdout.
+- [Kaggle instructions](customer-growth-analytics/KAGGLE.md) and example private-kernel metadata are included. No Kaggle publication or Kaggle run has occurred.
+- Next analytical increments: review adjustment codes and outliers, rehearse the Kaggle import, and add a public Kaggle URL after a successful account-authorized run. Commercial actions remain hypotheses, not observed campaign impact.
+
 ## Next increments
 1. Review the templates for clarity and consistency; record substantive revisions.
 2. Test the prompt with a synthetic proposal; publish inputs, output, human corrections and limitations.

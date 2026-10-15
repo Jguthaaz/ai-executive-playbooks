@@ -1,0 +1,7 @@
+step,removed,remaining
+exact duplicates,5268,536641
+missing customer ID,135037,401604
+cancellation invoices,8872,392732
+nonpositive quantity or price,40,392692
+invalid dates,0,392692
+outside complete-month window,17026,375666

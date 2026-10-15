@@ -6,6 +6,7 @@ Browse the projects below to see their purpose, contents and relevance. Open a p
 ## Projects
 | Project | What it contains | Relevance | Status |
 | --- | --- | --- | --- |
+| [Customer Growth Analytics](customer-growth-analytics/README.md) | Executed notebook, RFM segments, cohort repeat rates and temporal holdout using real UCI transactions | Customer analytics and commercial decision support | Locally executed; real public data; Kaggle-ready |
 | [Growth Opportunity Explorer](growth-opportunity-explorer/README.md) | Customer segments, value propositions, commercial scenarios and a discovery plan | Growth strategy and customer-focused innovation | Hypothetical exercise |
 | [Executive Co-Creation Toolkit](executive-co-creation-toolkit/README.md) | A 90-minute workshop, opportunity canvas and prioritization worksheet | Problem framing and alignment across business functions | Hypothetical exercise |
 | [Decision Intelligence Lab](decision-intelligence-lab/README.md) | An investment comparison with weighted criteria, synthetic data and sensitivity analysis | Analytical reasoning and decisions under uncertainty | Hypothetical exercise |
@@ -16,6 +17,7 @@ Browse the projects below to see their purpose, contents and relevance. Open a p
 | [AI Opportunity Simulator](simulator/README.md) | A Python prototype, synthetic initiatives and an interactive local viewer | Exploring how assumptions and weights change priorities | Prototype; synthetic data |
 
 ## Where to start
+- **Inspect analytics with real data:** [Customer Growth Analytics](customer-growth-analytics/README.md).
 - **Explore growth:** Growth Opportunity Explorer.
 - **Compare AI initiatives:** Decision Intelligence Lab.
 - **Plan business change:** Business Transformation Blueprint.

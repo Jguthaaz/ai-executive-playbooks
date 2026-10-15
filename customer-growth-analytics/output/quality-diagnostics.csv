@@ -1,0 +1,8 @@
+diagnostic,rows
+raw_rows,541909
+exact_duplicate_rows,5268
+missing_customer_id,135080
+cancellation_lines,9288
+nonpositive_quantity,10624
+nonpositive_price,2517
+missing_description,1454

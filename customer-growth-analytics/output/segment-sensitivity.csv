@@ -1,0 +1,6 @@
+active_days,lapsed_days,value_quantile,active_high_value,lapsed_high_value,changed_labels
+60,90,0.75,852,107,0
+45,75,0.75,788,141,246
+90,120,0.75,926,71,312
+60,90,0.7,998,148,187
+60,90,0.8,710,67,182
