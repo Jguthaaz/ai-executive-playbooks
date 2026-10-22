@@ -24,6 +24,9 @@ Read the [Project Overview](PORTFOLIO-GUIDE.md) for project contents, relevance 
 
 These are public working exercises, not claims of client delivery or measured outcomes. Read them as a sequence: frame opportunities, challenge investment choices, design execution and verify value. They are separate illustrations, not completed phases of a real engagement.
 
+## Customer retention decisions
+[Customer Retention Decisions](customer-retention-decisions/README.md) — interactive comparison of risk-based and expected-value targeting with synthetic profiles, configurable assumptions and CSV export. Includes a professional analytics context, clearly separated from this personal demonstration. **v0.1 · synthetic data · no trained predictive model.**
+
 ## Interactive prototype
 [AI Opportunity Simulator](simulator/README.md) — Python code, six synthetic initiatives, configurable impact/effort weights and a ready-to-open interactive viewer. Download the repository to run the viewer locally; GitHub shows its HTML source. Basic software checks passed; business assumptions remain unvalidated.
 
