@@ -55,6 +55,9 @@ These are public working exercises, not claims of client delivery or measured ou
 | [Python simulator](simulator/README.md) | Explore weights, scenarios and eligible alternatives | Working prototype · synthetic data |
 | [Roadmap](ROADMAP.md) | Track the next increments | Planned work |
 
+## Facilitación ejecutiva
+[Dos playbooks visuales](facilitacion-ejecutiva/README.md) — pasar de ideas de IA a un piloto definido y alinear perspectivas entre áreas. Incluyen visuales de Napkin, preguntas de conversación, guiones y formatos de acuerdos. **v1.0 · marcos conceptuales · pendientes de prueba con audiencia.**
+
 ## Use and limitations
 Copy a template and replace bracketed fields. Use approved, non-confidential inputs. Keep assumptions separate from facts, retain human accountability and document evidence before claiming results. No confidential employer or client materials are included.
 
