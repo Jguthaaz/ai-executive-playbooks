@@ -6,6 +6,7 @@ Browse the projects below to see their purpose, contents and relevance. Open a p
 ## Projects
 | Project | What it contains | Relevance | Status |
 | --- | --- | --- | --- |
+| [AI Technology & Autonomy Decision Layer](ai-technology-autonomy-decision-layer/README.md) | Technology canvas, selection tree, architecture trade-offs and decision brief | Proportionate architecture and autonomy choices | v0.1; fictional case; documentation/arithmetic validation only |
 | [Customer Growth Analytics](customer-growth-analytics/README.md) | Executed notebook, RFM segments, cohort repeat rates and temporal holdout using real UCI transactions | Customer analytics and commercial decision support | Locally executed; real public data; Kaggle-ready |
 | [Growth Opportunity Explorer](growth-opportunity-explorer/README.md) | Customer segments, value propositions, commercial scenarios and a discovery plan | Growth strategy and customer-focused innovation | Hypothetical exercise |
 | [Executive Co-Creation Toolkit](executive-co-creation-toolkit/README.md) | A 90-minute workshop, opportunity canvas and prioritization worksheet | Problem framing and alignment across business functions | Hypothetical exercise |

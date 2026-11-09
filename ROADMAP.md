@@ -32,6 +32,12 @@ All seven featured projects remain Work in Progress. The three additions documen
 - [Kaggle instructions](customer-growth-analytics/KAGGLE.md) and example private-kernel metadata are included. No Kaggle publication or Kaggle run has occurred.
 - Next analytical increments: review adjustment codes and outliers, rehearse the Kaggle import, and add a public Kaggle URL after a successful account-authorized run. Commercial actions remain hypotheses, not observed campaign impact.
 
+## AI Technology & Autonomy Decision Layer v0.1
+- [Original decision layer](ai-technology-autonomy-decision-layer/README.md) connects existing prioritization, value and pilot materials without replacing them.
+- Four reusable artifacts, an extension of the fictional quotation case, synthetic score/sensitivity checks, sources and upstream MIT notice.
+- Evidence boundary: documentation and arithmetic validation only; no client validation, model test, implemented agent or business result.
+- Next: review preferences and control requirements with an accountable owner, then consider a separately authorized synthetic comparison.
+
 ## Next increments
 1. Review the templates for clarity and consistency; record substantive revisions.
 2. Test the prompt with a synthetic proposal; publish inputs, output, human corrections and limitations.

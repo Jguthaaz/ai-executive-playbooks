@@ -2,6 +2,8 @@
 **Status:** hypothetical pilot design · AI-assisted · October 12, 2026.
 **Execution:** not implemented or tested. No client, business outcome or personal delivery achievement is represented.
 
+For an explicit architecture comparison and autonomy decision using this same fictional scope, see the [Technology & Autonomy worked decision](../ai-technology-autonomy-decision-layer/case-quotation-decision.md). Its scores are illustrative and its pilot approval remains on hold.
+
 ## Executive decision
 Should a fictional maintenance-services company test AI-assisted quotation drafting, or first improve its templates and catalog?
 
