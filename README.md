@@ -11,6 +11,9 @@ Read the [Project Overview](PORTFOLIO-GUIDE.md) for project contents, relevance 
 ## Analytics with real data
 [Customer Growth Analytics](customer-growth-analytics/README.md) — executed Python notebook using UCI Online Retail transactions: quality audit, RFM segments, cohort repeat purchasing, temporal holdout and commercial interpretation. Includes [observed findings](customer-growth-analytics/FINDINGS.md) and [Kaggle import instructions](customer-growth-analytics/KAGGLE.md). **Work in Progress · real public data · executed locally; not yet run in Kaggle.**
 
+## Technology and autonomy decisions
+[AI Technology & Autonomy Decision Layer v0.1](ai-technology-autonomy-decision-layer/README.md) — canvas, selection tree, architecture scorecard and executive decision brief, with a worked fictional quotation decision. **Work in Progress · synthetic assumptions · no client validation.** Use after prioritization and before the pilot brief.
+
 ## Featured portfolio exercises
 - [Executive Co-Creation Toolkit](executive-co-creation-toolkit/README.md) — a worked 90-minute executive workshop, opportunity canvas, prioritization matrix and reusable worksheet. **Work in Progress · hypothetical.**
 - [Decision Intelligence Lab](decision-intelligence-lab/README.md) — a documentation-first AI investment exercise with synthetic scores, weighted criteria, sensitivity analysis and a conditional decision record. **Work in Progress · hypothetical.**

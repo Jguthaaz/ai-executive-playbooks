@@ -1,0 +1,158 @@
+{
+  "status": "synthetic assumptions; no client validation",
+  "criteria": [
+    "task_fit",
+    "simplicity",
+    "cost",
+    "capability",
+    "control",
+    "time"
+  ],
+  "weights": [
+    30,
+    20,
+    15,
+    10,
+    15,
+    10
+  ],
+  "options": [
+    {
+      "id": "template",
+      "scores": [
+        2,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "expected_total": 4.1,
+      "gates": {
+        "data": "unknown",
+        "authority": "pass",
+        "quality": "unknown",
+        "budget": "unknown",
+        "evaluation": "unknown"
+      }
+    },
+    {
+      "id": "fixed_rag_copilot",
+      "scores": [
+        5,
+        3,
+        3,
+        3,
+        4,
+        3
+      ],
+      "expected_total": 3.75,
+      "gates": {
+        "data": "unknown",
+        "authority": "pass",
+        "quality": "unknown",
+        "budget": "unknown",
+        "evaluation": "unknown"
+      }
+    },
+    {
+      "id": "bounded_agent",
+      "scores": [
+        5,
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "expected_total": 2.35,
+      "gates": {
+        "data": "unknown",
+        "authority": "fail",
+        "quality": "unknown",
+        "budget": "unknown",
+        "evaluation": "unknown"
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "task_fit_priority",
+      "weights": [
+        50,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "expected_totals": [
+        3.5,
+        4.1,
+        3.1
+      ],
+      "expected_leader": "fixed_rag_copilot"
+    },
+    {
+      "name": "lower_rag_fit",
+      "weights": [
+        50,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "overrides": {
+        "fixed_rag_copilot": [
+          3,
+          3,
+          3,
+          3,
+          4,
+          3
+        ]
+      },
+      "expected_totals": [
+        3.5,
+        3.1,
+        3.1
+      ],
+      "expected_leader": "template"
+    }
+  ],
+  "cost_estimates": {
+    "currency": "USD",
+    "months": 12,
+    "excludes": [
+      "human review",
+      "training",
+      "integration contingencies",
+      "taxes",
+      "opportunity cost"
+    ],
+    "options": [
+      {
+        "id": "template",
+        "setup": 1000,
+        "monthly": 100,
+        "exit": 200,
+        "expected_subtotal": 2400
+      },
+      {
+        "id": "fixed_rag_copilot",
+        "setup": 4000,
+        "monthly": 400,
+        "exit": 1000,
+        "expected_subtotal": 9800
+      },
+      {
+        "id": "bounded_agent",
+        "setup": 8000,
+        "monthly": 900,
+        "exit": 2000,
+        "expected_subtotal": 20800
+      }
+    ]
+  }
+}
