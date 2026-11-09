@@ -5,6 +5,22 @@ Practical tools to connect business strategy, innovation and AI with decisions a
 
 This initial portfolio explores how to frame opportunities, align stakeholders and design a responsible experiment before scaling. Materials are draft working tools, not a validated methodology or evidence of client delivery.
 
+## Integrated AI & Decision Frameworks Navigator
+
+An integrated, source-attributed knowledge navigator for AI strategy, decision intelligence, workflow redesign and value realization.
+
+Biblioteca integrada de referencia para elegir recursos según la decisión. **Curaduría y análisis comparativo en desarrollo; no es una metodología propia, una validación de los marcos ni una integración avalada por sus autores.**
+
+| Entrada | Comenzar aquí |
+| --- | --- |
+| [Explore by Executive Question](decision-journeys/executive-questions.md) | Elegir recursos según seis preguntas ejecutivas |
+| [Explore by Framework](frameworks-catalog/README.md) | Consultar ocho fichas, autorías, fuentes oficiales y límites |
+| [Explore by Decision Journey](decision-journeys/README.md) | Seguir recorridos opcionales desde oportunidad hasta evaluación |
+
+[Relaciones entre marcos](frameworks-mapping/README.md) · [Cinco activos existentes/propuestos](tools-and-templates/README.md) · [Ejemplo transversal sintético](worked-examples/quotation-journey.md) · [Fuentes y atribuciones](frameworks-mapping/ATTRIBUTIONS.md) · [Validación](frameworks-mapping/VALIDATION.md)
+
+Los frameworks externos conservan su identidad y derechos. Las relaciones editoriales se distinguen de afirmaciones documentadas por fuentes. Los activos indican su estado real; los casos sintéticos no representan resultados. GitHub Pages no estaba configurado al revisar el repositorio: estas páginas se navegan directamente en GitHub.
+
 ## Portfolio guide
 Read the [Project Overview](PORTFOLIO-GUIDE.md) for project contents, relevance and current status.
 
